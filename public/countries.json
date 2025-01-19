@@ -1,0 +1,83 @@
+[
+  {
+    "name": "United States",
+    "lat": 37.0902,
+    "lng": -95.7129,
+    "value": 331002651,
+    "alertLevel": "high",
+    "continent": "North America"
+  },
+  {
+    "name": "China",
+    "lat": 35.8617,
+    "lng": 104.1954,
+    "value": 1439323776,
+    "alertLevel": "high",
+    "continent": "Asia"
+  },
+  {
+    "name": "India",
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "value": 1380004385,
+    "alertLevel": "high",
+    "continent": "Asia"
+  },
+  {
+    "name": "Brazil",
+    "lat": -14.2350,
+    "lng": -51.9253,
+    "value": 212559417,
+    "alertLevel": "medium",
+    "continent": "South America"
+  },
+  {
+    "name": "Russia",
+    "lat": 61.5240,
+    "lng": 105.3188,
+    "value": 145934462,
+    "alertLevel": "low",
+    "continent": "Europe"
+  },
+  {
+    "name": "Japan",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "value": 126476461,
+    "alertLevel": "low",
+    "continent": "Asia"
+  },
+  {
+    "name": "Germany",
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "value": 83783942,
+    "alertLevel": "low",
+    "continent": "Europe"
+  },
+  {
+    "name": "United Kingdom",
+    "lat": 55.3781,
+    "lng": -3.4360,
+    "value": 67886011,
+    "alertLevel": "medium",
+    "continent": "Europe"
+  },
+  {
+    "name": "France",
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "value": 65273511,
+    "alertLevel": "low",
+    "continent": "Europe"
+  },
+  {
+    "name": "Italy",
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "value": 60481826,
+    "alertLevel": "medium",
+    "continent": "Europe"
+  }
+]
+
