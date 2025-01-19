@@ -16,6 +16,10 @@ npm-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.package-lock.json
+v0-user-next.config.js
+postcss.config.js
+postcss.config.mjs
 
 # IDE files
 .vscode/
